@@ -1,2 +1,2 @@
 # rsschool-cv-html
- https://github.com/Dashidze/rsschool-cv/tree/rsschool-cv-html
+ https://dashidze.github.io/rsschool-cv/
